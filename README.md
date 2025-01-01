@@ -1,4 +1,4 @@
-# This is just an emergency branch download the [BSVersions.json](https://github.com/darkwolf1000/BSLegacyLauncher/blob/master/Resources/BSVersions.json) file and put it in your \BSLegacyLauncher\Resources folder
+# This is just an emergency branch download the [BSVersions.json](https://github.com/darkwolf1000/BSLegacyLauncher/blob/master/Resources/BSVersions.json) file and put it in your \BSLegacyLauncher\Resources folder for versions up to 1.40.0
 
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
