@@ -1,3 +1,5 @@
+# This is just an emergency branch download the [BSVersions.json](https://github.com/darkwolf1000/BSLegacyLauncher/blob/master/Resources/BSVersions.json) file and put it in your \BSLegacyLauncher\Resources folder
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
